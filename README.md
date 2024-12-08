@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [G-Electra](https://github.com/G-Electra-Web)
 
-- 🌱 I’m currently learning **Node JS, Express**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Web Development and DSA**
 
