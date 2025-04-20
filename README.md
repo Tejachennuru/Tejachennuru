@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Teja Vardhan Reddy</h1>
-<h3 align="center">CCBPian at Nxtwave | 3rd year at Gitam | Web Dev | Freelancing | President of COGAAN Club | MERN Stack trainee</h3>
+<h3 align="center">CCBPian at Nxtwave | Final year at Gitam | Developer | MERN Stack | Exploring AI & Andriod</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejachennuru&label=Profile%20views&color=0e75b6&style=flat" alt="tejachennuru" /> </p>
 
-- 🔭 I’m currently working on [G-Electra](https://github.com/G-Electra-Web)
+- 🔭 I’m currently working on AI Models
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DSA & Andriod Development**
 
 - 💬 Ask me about **Web Development and DSA**
 
