@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Teja Vardhan Reddy</h1>
-<h3 align="center">Academy Student at Nxtwave | Final year at Gitam | Developer | MERN Stack | Exploring AI & Andriod</h3>
+<h3 align="center">Academy Student at Nxtwave | Final year at Gitam | Developer | MERN Stack | Exploring AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejachennuru&label=Profile%20views&color=0e75b6&style=flat" alt="tejachennuru" /> </p>
 
-- 🌱 I’m currently learning **DSA, Andriod Development**
+- 🌱 I’m currently learning **DSA & AI**
 
-- 💬 Ask me about **DSA, Web Development,**
+- 💬 Ask me about **DSA, Web Development, AI Agents**
 
 - 📫 How to reach me **tejachennuru05@gmail.com**
 
